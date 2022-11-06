@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+fastText/
+get_data.py
+models
+word_docs
+data
